@@ -1,2 +1,2 @@
 # metis
-project
+Projects created for Metis program.
