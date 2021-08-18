@@ -28,4 +28,4 @@ For both data sources, I limited three months of data (Feb~April) in 2020 and 20
 
 ## Communication
 
-Please find the slide and code in my Github account.
+Please find the presentation and code in my Github account.
